@@ -6,4 +6,5 @@ except ValueError:
     print("Please enter a valid number for hours.")
     exit() #it did this for me thats so cool
 
-weekly_hours = hours * 7
+weekly_hours = hours * 7 
+print(f"If you exercise {hours} hours daily, you will exercise {weekly_hours} hours in a week.")
