@@ -1,2 +1,9 @@
 print("Welcome to my Python Program!")
 hours = input("How many hours did you exercise today?")
+try:
+    hours = float(hours)
+except ValueError:
+    print("Please enter a valid number for hours.")
+    exit() #it did this for me thats so cool
+
+weekly_hours = hours * 7
