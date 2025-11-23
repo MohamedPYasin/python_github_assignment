@@ -1,3 +1,4 @@
+# Fitness Tracker, helps keep track of daily exercise hours and estimates weekly hours.
 print("Welcome to my Python Program!")
 hours = input("How many hours did you exercise today?")
 try:
