@@ -1,5 +1,5 @@
 # Fitness Tracker
-This program requires the user to input their daily exercise hours, then computes what their weekly exercise hours will be. This helps the user track theirt progress and stay on track for their goal. 
+This program requires the user to input their daily exercise hours, then computes what their weekly exercise hours will be. This helps the user track their progress and stay on track for their goal. 
 # How to run:
 python app.py
 
